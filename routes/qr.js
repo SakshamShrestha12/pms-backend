@@ -2,7 +2,7 @@
 const express = require("express");
 const multer = require("multer");
 const path = require("path");
-const QrCode = require("../models/QRCode");
+const QrCode = require("../models/QrCode");
 const router = express.Router();
 
 // Multer setup
